@@ -1,4 +1,4 @@
-#  Wine Quality Classification – IT542 Final Project
+#  Wine Quality Classification 
 
 This repository contains the final project for IT542: Innovative Algorithms. The goal is to analyze and classify wine quality based on physicochemical features using machine learning algorithms.
 
